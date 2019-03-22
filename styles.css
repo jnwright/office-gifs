@@ -23,8 +23,19 @@ body {
   text-align: center;
 }
 
+img {
+  max-width: 95%;
+  height: auto;
+}
+
 p {
   font-family: "karla";
+}
+
+#url {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 95%;
 }
 
 button {
