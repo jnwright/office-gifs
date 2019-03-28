@@ -7,10 +7,6 @@ body {
   padding: 0;
 }
 
-.wrapper {
-  min-height: calc(100vh - 125px);
-}
-
 .main {
   width: 50%;
   position: relative;
@@ -61,10 +57,11 @@ button:hover {
 }
 
 footer {
-  margin-top: 20px;
   width: 100%;
   text-align: center;
   bottom: 0;
+  position: absolute;
+  margin-top: 0.5em;
 }
 
 a {
