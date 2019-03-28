@@ -61,8 +61,8 @@ button:hover {
 }
 
 footer {
-  padding-top: 1em;
-  padding-bottom: 0.2em;
+  padding-top: 20px;
+  padding-bottom: 5px;
   width: 100%;
   text-align: center;
 }
