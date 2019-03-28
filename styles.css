@@ -8,7 +8,7 @@ body {
 }
 
 .wrapper {
-  min-height: calc(100vh - 150px);
+  min-height: calc(100vh - 125px);
 }
 
 .main {
@@ -61,10 +61,10 @@ button:hover {
 }
 
 footer {
-  padding-top: 20px;
-  padding-bottom: 5px;
+  margin-top: 20px;
   width: 100%;
   text-align: center;
+  bottom: 0;
 }
 
 a {
