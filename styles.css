@@ -2,13 +2,13 @@ body {
   box-sizing: border-box;
   background-color: #e2e4e1;
   color: #333;
-  font-family: 'karla';
+  font-family: "karla";
   margin: 0;
   padding: 0;
 }
 
 .wrapper {
-  min-height: calc(100vh - 50px);
+  min-height: calc(100vh - 150px);
 }
 
 .main {
@@ -57,12 +57,12 @@ button {
 button:hover {
   background-color: #956ea0;
   color: #fff;
-  transition: .2s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
 
-.footer {
-  padding-bottom: 0.5em;
-  height: 40px;
+footer {
+  padding-top: 1em;
+  padding-bottom: 0.2em;
   width: 100%;
   text-align: center;
 }
